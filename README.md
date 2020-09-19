@@ -1,4 +1,4 @@
-### Predicting Nationality and Gender Using Machine Learning
+### Predicting Nationality & Gender Using Machine Learning 
 
 #### Web App
 
@@ -19,6 +19,4 @@
 
 
 #### By
-+ Jesse E.Agbe(JCharis)
-+ Jesus Saves@JCharisTech
-+ J-Secur1ty
++ Younes Mellouki@
